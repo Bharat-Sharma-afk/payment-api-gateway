@@ -35,3 +35,10 @@ out/
 
 ### VS Code ###
 .vscode/
+run.bat
+
+### Kafka SSL secrets ###
+src/main/resources/ca.cert
+src/main/resources/ca.pem
+src/main/resources/service.cert
+src/main/resources/service.key
